@@ -22,7 +22,7 @@ The first computer programmer wasn't a "computer scientist" at all — it was <b
 <details>
 <summary><b>🧠 Fun fact #2 — click to reveal</b></summary>
 <br>
-The term <b>"bug"</b> in software comes from an actual moth found stuck in a relay of the Harvard Mark II computer in 1947 — Grace Hopper's team taped it into the logbook with the note "first actual case of bug being found."
+The term <b>"bug"</b> in software comes from an actual moth found stuck in a relay of the Harvard Mark II computer in 1947 — Grace Hopper's team taped it into the logbook with the note <i>"first actual case of bug being found."</i>
 </details>
 
 <details>
@@ -40,10 +40,13 @@ The first ever computer virus, <b>"Creeper,"</b> was written in 1971 and simply 
 <details>
 <summary><b>🎯 Test your curiosity — a tiny riddle</b></summary>
 <br>
-I speak without a mouth and hear without ears. I have no body, but come alive with wind. What am I?
+<i>I speak without a mouth and hear without ears. I have no body, but come alive with wind. What am I?</i>
 <br><br>
-<i>Highlight the blank space below for the answer →</i>
-<span style="color:black;background-color:black;">An echo.</span>
+<details>
+<summary><b>🔍 Click to reveal the answer</b></summary>
+<br>
+<blockquote><b>An echo.</b> 🗣️</blockquote>
+</details>
 </details>
 
 ---
@@ -51,62 +54,68 @@ I speak without a mouth and hear without ears. I have no body, but come alive wi
 ### 🧑‍💻 About Me
 
 - 👋 Hi, I'm **Aman Joshi** ([@Code-Breaker-Ctrl](https://github.com/Code-Breaker-Ctrl))
-- 🎧 Interested in **C++, Java, Python, Swift**, and more
-- 🌱 Currently learning from multiple platforms
-- 💞️ Looking to collaborate on **LinkedIn, Instagram, LeetCode, and GitHub**
+- 💻 Passionate about **C++, Java, Python, Swift**, and full-stack development
+- 🌱 Currently learning from multiple platforms & building cool tools
+- 💞️ Looking to collaborate on **GitHub, LeetCode, and open-source projects**
 - 🏳️ Pronouns: **He/Him**
-- 📫 Reach me at **joshiaman2006@gmail.com**
+- 📫 Reach me at: [joshiaman2006@gmail.com](mailto:joshiaman2006@gmail.com)
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,swift,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,swift,html,css,js,flask,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📌 Pinned Project
+### 📌 Featured Project
 
-**[Debunkit](https://github.com/Code-Breaker-Ctrl/Debunkit)** — AI-powered misinformation detection platform for headlines, URLs, and article content.
+<p align="center">
+  <a href="https://github.com/Code-Breaker-Ctrl/Debunkit">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Code-Breaker-Ctrl&repo=Debunkit&theme=radical&hide_border=true" alt="Debunkit Project Card" />
+  </a>
+</p>
+
+<p align="center">
+  🛡️ <b><a href="https://github.com/Code-Breaker-Ctrl/Debunkit">Debunkit</a></b> — AI-powered misinformation detection platform for headlines, URLs, and article content.
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Code-Breaker-Ctrl&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Breaker-Ctrl&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Code-Breaker-Ctrl&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Code-Breaker-Ctrl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Breaker-Ctrl&theme=radical&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Code-Breaker-Ctrl&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Code-Breaker-Ctrl&theme=radical&no-frame=true&row=1&column=6" />
+  <a href="https://leetcode.com/u/CodeBreakr/">
+    <img height="165" src="https://leetcard.jacoblin.cool/CodeBreakr?theme=radical&font=Fira%20Code" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 
-<!--START_SECTION:snake-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Code-Breaker-Ctrl/Code-Breaker-Ctrl/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Code-Breaker-Ctrl/Code-Breaker-Ctrl/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-<!--END_SECTION:snake-->
-
-> ⚠️ This snake image only appears once you set up the GitHub Action below — see setup notes.
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman-joshi-ai/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/joshiaman_2006/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://leetcode.com/u/CodeBreakr/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="mailto:joshiaman2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aman-joshi-ai/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/joshiaman_2006/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://leetcode.com/u/CodeBreakr/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:joshiaman2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
