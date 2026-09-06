@@ -101,7 +101,7 @@ The first ever computer virus, <b>"Creeper,"</b> was written in 1971 and simply 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Breaker-Ctrl&theme=react-dark&hide_border=true" alt="Contribution graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=Code-Breaker-Ctrl&theme=react-dark&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
