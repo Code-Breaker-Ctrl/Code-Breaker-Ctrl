@@ -65,7 +65,7 @@ The first ever computer virus, <b>"Creeper,"</b> was written in 1971 and simply 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git" alt="Tech Stack" />
 </p>
 
 ---
