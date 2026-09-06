@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=F7C948&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Aman+Joshi+%F0%9F%91%8B;Building+things+with+Java%2C+Python+%26+JavaScript;Currently+learning+across+multiple+platforms;Let's+collaborate+on+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=F7C948&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Aman+Joshi+%F0%9F%91%8B;Building+things+with+Python+%26+Java%2C+JavaScript;Currently+learning+across+multiple+platforms;Let's+collaborate+on+something+cool!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -54,7 +54,7 @@ The first ever computer virus, <b>"Creeper,"</b> was written in 1971 and simply 
 ### 🧑‍💻 About Me
 
 - 👋 Hi, I'm **Aman Joshi** ([@Code-Breaker-Ctrl](https://github.com/Code-Breaker-Ctrl))
-- 🎧 Working with **Java, Python, HTML/CSS, JavaScript**
+- 🎧 Working with **Python, Java, HTML/CSS, JavaScript**
 - 🌱 Currently learning from multiple platforms & building cool tools
 - 💞️ Looking to collaborate on **GitHub, LeetCode, and open-source projects**
 - 🏳️ Pronouns: **He/Him**
