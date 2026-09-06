@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aman+Joshi+%F0%9F%91%8B;Building+things+with+C%2B%2B%2C+Java%2C+Python+%26+Swift;Currently+learning+across+multiple+platforms;Let's+collaborate+on+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=F7C948&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Aman+Joshi+%F0%9F%91%8B;Building+things+with+Java%2C+Python+%26+JavaScript;Currently+learning+across+multiple+platforms;Let's+collaborate+on+something+cool!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -54,7 +54,7 @@ The first ever computer virus, <b>"Creeper,"</b> was written in 1971 and simply 
 ### 🧑‍💻 About Me
 
 - 👋 Hi, I'm **Aman Joshi** ([@Code-Breaker-Ctrl](https://github.com/Code-Breaker-Ctrl))
-- 💻 Passionate about **C++, Java, Python, Swift**, and full-stack development
+- 🎧 Working with **Java, Python, HTML/CSS, JavaScript**
 - 🌱 Currently learning from multiple platforms & building cool tools
 - 💞️ Looking to collaborate on **GitHub, LeetCode, and open-source projects**
 - 🏳️ Pronouns: **He/Him**
@@ -65,7 +65,7 @@ The first ever computer virus, <b>"Creeper,"</b> was written in 1971 and simply 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,swift,html,css,js,flask,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git" alt="Tech Stack" />
 </p>
 
 ---
