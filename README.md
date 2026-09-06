@@ -89,7 +89,7 @@ The first ever computer virus, <b>"Creeper,"</b> was written in 1971 and simply 
 
 ---
 
-### 📊 GitHub & Coding Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Code-Breaker-Ctrl&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
@@ -101,9 +101,7 @@ The first ever computer virus, <b>"Creeper,"</b> was written in 1971 and simply 
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/CodeBreakr/">
-    <img height="165" src="https://leetcard.jacoblin.cool/CodeBreakr?theme=radical&font=Fira%20Code" alt="LeetCode Stats" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Breaker-Ctrl&theme=react-dark&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
