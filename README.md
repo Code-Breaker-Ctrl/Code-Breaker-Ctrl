@@ -54,7 +54,7 @@ The first ever computer virus, <b>"Creeper,"</b> was written in 1971 and simply 
 ### 🧑‍💻 About Me
 
 - 👋 Hi, I'm **Aman Joshi** ([@Code-Breaker-Ctrl](https://github.com/Code-Breaker-Ctrl))
-- 🎧 Working with **Python, Java, HTML/CSS, JavaScript**
+- 🎧 Working with **Python, Flask, Java, JavaScript, HTML/CSS**
 - 🌱 Currently learning from multiple platforms & building cool tools
 - 💞️ Looking to collaborate on **GitHub, LeetCode, and open-source projects**
 - 🏳️ Pronouns: **He/Him**
@@ -65,7 +65,7 @@ The first ever computer virus, <b>"Creeper,"</b> was written in 1971 and simply 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,flask,js,html,css,postgres,supabase,sqlite,linux,bash,git" alt="Tech Stack" />
 </p>
 
 ---
