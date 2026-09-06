@@ -70,16 +70,21 @@ The first ever computer virus, <b>"Creeper,"</b> was written in 1971 and simply 
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Code-Breaker-Ctrl/Debunkit">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Code-Breaker-Ctrl&repo=Debunkit&theme=radical&hide_border=true" alt="Debunkit Project Card" />
   </a>
+  <a href="https://github.com/Code-Breaker-Ctrl/Ledgio">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Code-Breaker-Ctrl&repo=Ledgio&theme=radical&hide_border=true" alt="Ledgio Project Card" />
+  </a>
 </p>
 
 <p align="center">
   🛡️ <b><a href="https://github.com/Code-Breaker-Ctrl/Debunkit">Debunkit</a></b> — AI-powered misinformation detection platform for headlines, URLs, and article content.
+  <br>
+  💳 <b><a href="https://github.com/Code-Breaker-Ctrl/Ledgio">Ledgio</a></b> — Progressive Web App (PWA) personal finance tracker & budget manager • <a href="https://code-breaker-ctrl.github.io/Ledgio/"><b>Live Demo</b></a>
 </p>
 
 ---
