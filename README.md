@@ -74,10 +74,10 @@ The first ever computer virus, <b>"Creeper,"</b> was written in 1971 and simply 
 
 <p align="center">
   <a href="https://github.com/Code-Breaker-Ctrl/Debunkit">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Code-Breaker-Ctrl&repo=Debunkit&theme=radical&hide_border=true" alt="Debunkit Project Card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Code-Breaker-Ctrl&repo=Debunkit&theme=radical&hide_border=true&cache_seconds=1800" alt="Debunkit Project Card" />
   </a>
   <a href="https://github.com/Code-Breaker-Ctrl/Ledgio">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Code-Breaker-Ctrl&repo=Ledgio&theme=radical&hide_border=true" alt="Ledgio Project Card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Code-Breaker-Ctrl&repo=Ledgio&theme=radical&hide_border=true&cache_seconds=1800" alt="Ledgio Project Card" />
   </a>
 </p>
 
